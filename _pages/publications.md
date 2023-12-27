@@ -8,8 +8,6 @@ classes: wide
 
 {% include base_path %}
 
-**TODO: Add links to PDFs**
-
 ## Journal
 
 ---
@@ -36,8 +34,8 @@ classes: wide
 </div></font>
 
 ---
-<font size="-1"><div markdown="1">
-You can also find my publications on <a href="https://scholar.google.com/citations?user=XPEILEcAAAAJ&hl=en"> Google Scholar</a> or <a href="https://www.researchgate.net/profile/Tom-Hickling"> Researchgate</a>.
+<font size="-2"><div markdown="1">
+A list of publications is also available at <a href="https://scholar.google.com/citations?user=XPEILEcAAAAJ&hl=en"> Google Scholar</a> or <a href="https://www.researchgate.net/profile/Tom-Hickling"> Researchgate</a>.
 </div></font>
 
 <!-- {% for post in site.publications reversed %}
