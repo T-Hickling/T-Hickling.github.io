@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Tom Hickling"
-  avatar           : "Hickling_headshot_2021_cropped.jpg"
+  avatar           : "/images/Hickling_headshot_2021_cropped.jpg"
   bio              : "Postdoctoral Research Associate"
   location         : 
   employer         : "University of Oxford"
