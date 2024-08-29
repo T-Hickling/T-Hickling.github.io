@@ -26,6 +26,8 @@ classes: wide
 
 ---
 <font size="-1"><div markdown="1">
+[**Large Eddy Simulation of Airfoil Flows Using Adjoint-Trained Deep Learning Closure Models**](https://doi.org/10.2514/6.2024-0296) (with J. Sirignano, & J. F. MacArt). *AIAA SciTech Forum,* 2024.
+
 [**LES-CHT for a Rotating Cavity with Axial Throughflow**](https://doi.org/10.1115/GT2022-82982) (with L. He). *Proc. ASME Turbo Expo,* 2022.
 
 [**Some Observations on the Computational Sensitivity of Rotating Cavity Flows**](https://doi.org/10.1115/GT2020-16103) (with L. He). *Proc. ASME Turbo Expo,* 2020.
