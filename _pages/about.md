@@ -12,13 +12,13 @@ header:
   # caption: "Photo credit: [**Unsplash**](https://unsplash.com/photos/KeZ9Q4pP5iY)"
 ---
 
-Tom is a Postdoctoral Research Associate at the Mathematical Institute, University of Oxford. His research focusses on developing methods to improve the predictive ability of computational fluid dynamics in turbulent and/or multi-physics flow configurations, and using these methods to yield new insights into the behaviour of these systems. Leveraging recent advances in machine learning to do this in a more data- and compute-efficient way is of particular interest.
+Tom is a Postdoctoral Research Associate at the Mathematical Institute, University of Oxford. His research focusses on developing new optimization approaches for complex physical systems, with a particular focus on scalability for industry-relevant problem sizes and potential applications in fluid dynamics and computational engineering. Current areas of interest include PDE-constrained optimization, optimization for chaotic systems, and novel multiscale approaches. 
 
 Tom completed his DPhil in the Department of Engineering Science at the University of Oxford in 2023, and his MEng at the University of Durham in 2018.
 
 <font size="-1"><div markdown="1">
 **News**
-
+- INCITE allocation with J. Sirignano, J. MacArt, and D. Dehtyriov (link to come...)
 - SummitPLUS allocation with J. Sirignano and J. MacArt --- from ORNL [(link)](https://www.olcf.ornl.gov/2023/12/19/olcf-announces-summitplus-allocations/).
 - Osborne Reynolds Day runner up --- from Dept. of Engineering Science [(link)](https://eng.ox.ac.uk/news/oxford-engineering-science-students-win-prizes-at-osborne-reynolds-day/) and Somerville College [(link)](https://www.some.ox.ac.uk/news/tom-hickling-wins-runner-up-at-osborne-reynolds-day/).
 - ASME Gas Turbine Award with L. He --- from ASME [(link)](https://event.asme.org/Turbo-Expo-2022/Program/2020-ASME-GAS-TURBINE-AWARD), Dept. of Engineering Science [(link)](https://eng.ox.ac.uk/news/dphil-student-receives-prestigious-award-for-gas-turbine-research/), and Somerville College [(link)](https://www.some.ox.ac.uk/news/tom-hickling-wins-asme-gas-turbine-award/).
