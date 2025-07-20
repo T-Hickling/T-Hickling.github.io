@@ -12,7 +12,7 @@ classes: wide
 
 ---
 <font size="-1"><div markdown="1">
-[**OGF: An Online Gradient Flow Method for Optimizing the Statistical Steady-State Time Averages of Unsteady Turbulent Flows**](https://doi.org/10.48550/arXiv.2507.05149)
+[**OGF: An Online Gradient Flow Method for Optimizing the Statistical Steady-State Time Averages of Unsteady Turbulent Flows**](https://doi.org/10.48550/arXiv.2507.05149) (with J. F. MacArt, J. Sirignano, & D. Waidmann)
 
 **Active Control of Turbulent Airfoil Flows Using Adjoint-based Deep Learning** (with X. Liu, J. Sirignano, & J. F. MacArt). *Submitted*.
 
