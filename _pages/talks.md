@@ -8,6 +8,7 @@ author_profile: True
 {% include base_path %}
 
 **2025**
+<font size="-1"><div markdown="1">
 [2nd ERCOFTAC Workshop on Machine Learning for Computational Fluid Dynamics]([ERCOFTAC Workshop on Machine Learning for Computational Fluid Dynamics](https://www.ercoftac.org/events/2nd-machine-learning-for-fluid-dynamics-2025/)
 (London, UK)
 
@@ -30,7 +31,8 @@ author_profile: True
 </div></font>
 
 **2022**
-<font size="-1"><div markdown="1">[Osborne Reynolds Day](https://www.mace.manchester.ac.uk/connect/events/osborne-reynolds-day/)
+<font size="-1"><div markdown="1">
+[Osborne Reynolds Day](https://www.mace.manchester.ac.uk/connect/events/osborne-reynolds-day/)
 (Invited, Manchester, UK)
 
 [ASME Turbo Expo](https://event.asme.org/Turbo-Expo)
