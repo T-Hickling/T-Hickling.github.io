@@ -14,7 +14,7 @@ classes: wide
 <font size="-1"><div markdown="1">
 [**OGF: An Online Gradient Flow Method for Optimizing the Statistical Steady-State Time Averages of Unsteady Turbulent Flows**](https://doi.org/10.48550/arXiv.2507.05149) (with J. F. MacArt, J. Sirignano, & D. Waidmann)
 
-**Active Control of Turbulent Airfoil Flows Using Adjoint-based Deep Learning** (with X. Liu, J. Sirignano, & J. F. MacArt). *Submitted*.
+**Active Control of Turbulent Airfoil Flows Using Adjoint-based Deep Learning** (with X. Liu & J. F. MacArt). *Submitted*.
 
 [**A Multiscale Framework for Unsteady Conjugate Heat Transfer with Turbulence Resolving Methods — with Application to Rotating Cavities**](https://doi.org/10.1016/j.ijheatfluidflow.2023.109174) (with L. He). *Int. J. Heat Fluid Flow*, 2023.
 
@@ -31,7 +31,7 @@ classes: wide
 <font size="-1"><div markdown="1">
 [**Active Control of Turbulent Airfoil Flows Using Adjoint-based Deep Learning**](https://arc.aiaa.org/doi/abs/10.2514/6.2025-1300) (with X. Liu, J. Sirignano, & J. F. MacArt). *AIAA SciTech Forum,* 2025.
 
-[**Large Eddy Simulation of Airfoil Flows Using Adjoint-Trained Deep Learning Closure Models**](https://doi.org/10.2514/6.2024-0296) (with J. Sirignano, & J. F. MacArt). *AIAA SciTech Forum,* 2024.
+[**Large Eddy Simulation of Airfoil Flows Using Adjoint-Trained Deep Learning Closure Models**](https://doi.org/10.2514/6.2024-0296) (with J. Sirignano & J. F. MacArt). *AIAA SciTech Forum,* 2024.
 
 [**LES-CHT for a Rotating Cavity with Axial Throughflow**](https://doi.org/10.1115/GT2022-82982) (with L. He). *Proc. ASME Turbo Expo,* 2022.
 
