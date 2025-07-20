@@ -17,7 +17,8 @@ classes: wide
 
 ## Grants
 <font size="-1"><div markdown="1">
-- [SummitPLUS](https://www.olcf.ornl.gov/summit-plus/): 1,500,000 GPU-hours on Summit at OLCF to develop deep-learning closure models for LES of hypersonic flows. (With J. MacArt and J. Sirignano, 2024)
+- [INCITE](https://www.olcf.ornl.gov/2024/11/18/incite-program-awards-supercomputing-time-to-81-high-impact-projects/): 8,000,000 GPU-hours on Frontier at OLCF. (With J. MacArt, J. Sirignano, D. Dehtyriov
+- [SummitPLUS](https://www.olcf.ornl.gov/summit-plus/): 1,500,000 GPU-hours on Summit at OLCF. (With J. MacArt and J. Sirignano, 2024)
 - Somerville College Travel and Special Project Grant to attend the ASME Turbo Expo 2020 and 2022.
 - EPSRC DTP fully-funded studentship to study for a DPhil at the University of Oxford.
 - Institute of Mechanical Engineers Undergraduate Scholarship. £9,000 over 3 years.
