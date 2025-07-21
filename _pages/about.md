@@ -18,8 +18,8 @@ Tom completed his DPhil in the Department of Engineering Science at the Universi
 
 <font size="-1"><div markdown="1">
 **News**
-- INCITE allocation with J. Sirignano, J. MacArt, and D. Dehtyriov (link to come...)
-- SummitPLUS allocation with J. Sirignano and J. MacArt --- from ORNL [(link)](https://www.olcf.ornl.gov/2023/12/19/olcf-announces-summitplus-allocations/).
+- INCITE award with J. Sirignano, J. MacArt, and D. Dehtyriov [(link)](https://www.olcf.ornl.gov/2024/11/18/incite-program-awards-supercomputing-time-to-81-high-impact-projects/)
+- SummitPLUS award with J. Sirignano and J. MacArt --- from ORNL [(link)](https://www.olcf.ornl.gov/2023/12/19/olcf-announces-summitplus-allocations/).
 - Osborne Reynolds Day runner up --- from Dept. of Engineering Science [(link)](https://eng.ox.ac.uk/news/oxford-engineering-science-students-win-prizes-at-osborne-reynolds-day/) and Somerville College [(link)](https://www.some.ox.ac.uk/news/tom-hickling-wins-runner-up-at-osborne-reynolds-day/).
 - ASME Gas Turbine Award with L. He --- from ASME [(link)](https://event.asme.org/Turbo-Expo-2022/Program/2020-ASME-GAS-TURBINE-AWARD), Dept. of Engineering Science [(link)](https://eng.ox.ac.uk/news/dphil-student-receives-prestigious-award-for-gas-turbine-research/), and Somerville College [(link)](https://www.some.ox.ac.uk/news/tom-hickling-wins-asme-gas-turbine-award/).
 
