@@ -12,9 +12,9 @@ classes: wide
 
 ---
 <font size="-1"><div markdown="1">
-[**OGF: An Online Gradient Flow Method for Optimizing the Statistical Steady-State Time Averages of Unsteady Turbulent Flows**](https://doi.org/10.48550/arXiv.2507.05149) (with J. F. MacArt, J. Sirignano, & D. Waidmann)
+[**OGF: An Online Gradient Flow Method for Optimizing the Statistical Steady-State Time Averages of Unsteady Turbulent Flows**](https://doi.org/10.48550/arXiv.2507.05149) (with J. F. MacArt, J. Sirignano, & D. Waidmann). *Under review*.
 
-**Active Control of Turbulent Airfoil Flows Using Adjoint-based Deep Learning** (with X. Liu & J. F. MacArt). *Submitted*.
+**Active Control of Turbulent Airfoil Flows Using Adjoint-based Deep Learning** (with X. Liu & J. F. MacArt). *Under review*.
 
 [**A Multiscale Framework for Unsteady Conjugate Heat Transfer with Turbulence Resolving Methods — with Application to Rotating Cavities**](https://doi.org/10.1016/j.ijheatfluidflow.2023.109174) (with L. He). *Int. J. Heat Fluid Flow*, 2023.
 
