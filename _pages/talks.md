@@ -9,7 +9,7 @@ author_profile: True
 
 **2025**
 <font size="-1"><div markdown="1">
-[2nd ERCOFTAC Workshop on Machine Learning for Computational Fluid Dynamics]([ERCOFTAC Workshop on Machine Learning for Computational Fluid Dynamics](https://www.ercoftac.org/events/2nd-machine-learning-for-fluid-dynamics-2025/)
+[ERCOFTAC Workshop on Machine Learning for Computational Fluid Dynamics](https://www.ercoftac.org/events/2nd-machine-learning-for-fluid-dynamics-2025/)
 (London, UK)
 
 **2024**
